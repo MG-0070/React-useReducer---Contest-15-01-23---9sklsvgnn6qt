@@ -1,0 +1,9 @@
+
+#subtractInput,#subtractBtn,#count,#addBtn,#addInput{
+    font-size: 20px;
+    size: 20px;
+}
+#count{
+    font-size: 30px;
+font-weight: bolder;
+}
